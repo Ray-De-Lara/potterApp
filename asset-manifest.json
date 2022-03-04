@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/potterApp/static/css/main.c8ff9a8e.css",
-    "main.js": "/potterApp/static/js/main.442aaf0f.js",
+    "main.js": "/potterApp/static/js/main.45c2161d.js",
     "static/media/hhogwarts.jpg": "/potterApp/static/media/hhogwarts.c458c46e7c787fafb790.jpg",
     "index.html": "/potterApp/index.html",
     "main.c8ff9a8e.css.map": "/potterApp/static/css/main.c8ff9a8e.css.map",
-    "main.442aaf0f.js.map": "/potterApp/static/js/main.442aaf0f.js.map"
+    "main.45c2161d.js.map": "/potterApp/static/js/main.45c2161d.js.map"
   },
   "entrypoints": [
     "static/css/main.c8ff9a8e.css",
-    "static/js/main.442aaf0f.js"
+    "static/js/main.45c2161d.js"
   ]
 }
