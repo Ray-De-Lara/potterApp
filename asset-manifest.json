@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/noteApp/static/css/main.c8ff9a8e.css",
+    "main.js": "/noteApp/static/js/main.88f78ca6.js",
+    "static/media/hhogwarts.jpg": "/noteApp/static/media/hhogwarts.c458c46e7c787fafb790.jpg",
+    "index.html": "/noteApp/index.html",
+    "main.c8ff9a8e.css.map": "/noteApp/static/css/main.c8ff9a8e.css.map",
+    "main.88f78ca6.js.map": "/noteApp/static/js/main.88f78ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ff9a8e.css",
+    "static/js/main.88f78ca6.js"
+  ]
+}
